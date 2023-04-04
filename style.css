@@ -1,5 +1,5 @@
 * {
-    margin: 16px;
+    margin: 0 16px;
     padding: 24px 0;
 }
 
@@ -13,9 +13,13 @@
 }
 
 .cabecalho-imagem {
-    width: 20%;
+    width: 30%;
 }
 
 .cabecalho-lista-item {
     display: inline-block;
+}
+
+.escola-imagem {
+    width: 25%;
 }
