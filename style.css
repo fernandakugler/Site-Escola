@@ -23,3 +23,14 @@
 .escola-imagem {
     width: 25%;
 }
+
+.escola {
+    background-image: linear-gradient(#213C81,#4BA4AA );
+    color: white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.escola-conteudo {
+    width: 35%;
+}
