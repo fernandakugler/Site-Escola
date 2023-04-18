@@ -34,3 +34,34 @@
 .escola-conteudo {
     width: 35%;
 }
+
+body {
+    font-family: 'Poppins',sans-serif;
+}
+
+.estudante-imagem {
+    width: 120px;
+}
+
+.estudante-icone {
+    width: 20px;
+}
+
+.estudante-titulo {
+    text-align: center;
+}
+
+.estudante-div {
+    text-align: center;
+}
+
+.estudante-todos {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+}
+
+footer {
+    background-color: black;
+    padding: 15px 0;
+    text-align: center;
+}
